@@ -312,7 +312,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- **[Shadcn](https://github.com/shadcn)** - For the amazing component library
-- **[Vercel](https://vercel.com)** - For Next.js and hosting platform
-- **[Radix UI](https://www.radix-ui.com)** - For unstyled, accessible components
-- **[Tailwind CSS](https://tailwindcss.com)** - For the utility-first CSS framework
+- [Shadcn](https://github.com/shadcn)
+- [Vercel](https://vercel.com)
+- [Radix UI](https://www.radix-ui.com)
+- [Tailwind CSS](https://tailwindcss.com)
